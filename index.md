@@ -4,7 +4,7 @@ A workload forecast for iPhone and iPad.
 
 ## Support
 
-Questions, problems, or feedback: **your@email.com**
+Questions, problems, or feedback: **pain.printing@gmail.com**
 
 I read every message and usually reply within a couple of days.
 
