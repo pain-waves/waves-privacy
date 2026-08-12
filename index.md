@@ -36,6 +36,6 @@ Waves does not use analytics, advertising, or third-party tracking of any kind.
 
 Waves reads your calendars and reminders. It never modifies them.
 
-Contact: **your@email.com**
+Contact: **pain.printing@gmail.com**
 
 Last updated: August 2026
